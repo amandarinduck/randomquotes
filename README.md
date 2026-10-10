@@ -4,4 +4,6 @@ clone repo and install dependencies using
 
 `pip install -r requirements.txt`
 
-Then run the script
+then run the script in terminal:
+
+`python3 quotescraper.py`
