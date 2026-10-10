@@ -1,7 +1,7 @@
 <b>Instructions:</b>
 
-install dependencies using 
+clone repo and install dependencies using 
 
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
-then run the script
+Then run the script
