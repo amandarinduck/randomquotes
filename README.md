@@ -8,4 +8,4 @@ then run the script in terminal:
 
 `python3 quotescraper.py`
 
-the scraped quotes are then processed to train a small recurrent neural net for text generation, as detailed in the Jupyter Notebook
+the scraped quotes are then processed to train a small recurrent neural net for text generation, which can be run via the Jupyter Notebook
