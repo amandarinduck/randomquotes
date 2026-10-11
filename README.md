@@ -1,4 +1,4 @@
-<b>Instructions:</b>
+<b>Instructions for scraping script</b>
 
 clone repo and install dependencies using 
 
